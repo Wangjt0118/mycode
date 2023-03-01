@@ -1,0 +1,209 @@
+{
+    "pos_id": "4721711826094555136",
+    "store_id": "4001376863112306689",
+    "order_no": "9",
+    "sales_date": "2023-02-17 17:21:49",
+    "pos":
+    {
+        "operator":
+        {
+            "code": "020",
+            "name": "测试店长",
+            "id": 4166030521228505089
+        },
+        "device":
+        {
+            "mac": "68:ED:A4:19:33:61",
+            "code": "42792896",
+            "id": "4721711826094555136"
+        },
+        "name": "主机20220113"
+    },
+    "sign": "ef7b342158139a1b4da508baeebba501",
+    "is_cancel": 0,
+    "table":
+    {
+        "people": 1,
+        "id": "",
+        "no": ""
+    },
+    "total_qty": 1,
+    "partner_id": 3805520638781685761,
+    "payable_amount": 0.0,
+    "operation_user_id": "4166030521228505089",
+    "business_date": "2023-02-17 00:00:00",
+    "paid_amount": 0.0,
+    "sub_channel": 0,
+    "member":
+    {},
+    "discounts":
+    [],
+    "version": "2.0",
+    "ticket_id": "3b885c917f194376ad6dc39c62cd420b",
+    "context_id": 4724229728374915072,
+    "invoice_order_no": "42792896202302179",
+    "method": 0,
+    "store":
+    {
+        "us_id": "00002",
+        "code": " ",
+        "name": "国融测试门店02"
+    },
+    "end_time": "2023-02-17 17:22:48",
+    "status": "FINISH",
+    "updated": "2023-02-17 17:22:49",
+    "sales_time": "2023-02-17 17:21:49",
+    "sub_status": "SALE",
+    "start_time": "2023-02-17 17:21:49",
+    "send_fee": 0,
+    "members":
+    [],
+    "discount_amount": 0.0,
+    "delivery_time": "",
+    "tax_amount": 0.0,
+    "total_amount": 33.0,
+    "created": "2023-02-17 17:22:49",
+    "items":
+    [
+        {
+            "ticket_id": "3b885c917f194376ad6dc39c62cd420b",
+            "code": "TC1389",
+            "tax_amount": 0.0,
+            "total_amount": 33.0,
+            "unique_sequence_code": 1,
+            "price": 33.0,
+            "qty": 1,
+            "amount": 33.0,
+            "operation_records":
+            [],
+            "item_id": "4649133090480881664",
+            "net_amount": 33.0,
+            "discount_amount": 0.0,
+            "type": "MEAL_CUSTOM",
+            "unique_id": "98a5a254-905a-4b37-95dc-baafa9b16d93",
+            "name": "草莓雪胖胖爆料杯"
+        },
+        {
+            "ticket_id": "3b885c917f194376ad6dc39c62cd420b",
+            "code": "DP01688",
+            "tax_amount": 0.0,
+            "total_amount": 11.0,
+            "unique_sequence_code": 1,
+            "price": 11.0,
+            "qty": 1,
+            "amount": 11.0,
+            "operation_records":
+            [],
+            "item_id": "4645547244100026368",
+            "net_amount": 11.0,
+            "discount_amount": 0.0,
+            "type": "CUSTOM",
+            "parent_unique_id": "98a5a254-905a-4b37-95dc-baafa9b16d93",
+            "unique_id": "c01a6cb4-5a72-48c7-92eb-e773fd8c8529",
+            "name": "1/2雪胖胖-巧克力熔岩风味"
+        },
+        {
+            "ticket_id": "3b885c917f194376ad6dc39c62cd420b",
+            "code": "DP01693",
+            "tax_amount": 0.0,
+            "total_amount": 22.0,
+            "unique_sequence_code": 2,
+            "price": 22.0,
+            "qty": 1,
+            "amount": 22.0,
+            "operation_records":
+            [],
+            "item_id": "4645578992095625217",
+            "net_amount": 22.0,
+            "discount_amount": 0.0,
+            "type": "CUSTOM",
+            "parent_unique_id": "98a5a254-905a-4b37-95dc-baafa9b16d93",
+            "unique_id": "9f68d0fa-615f-4cfd-9a77-1cfd192d0775",
+            "name": "草莓爆料圣代杯"
+        }
+    ],
+    "overflow_amount": 0.0,
+    "points": 0,
+    "products":
+    [
+        {
+            "ticket_id": "3b885c917f194376ad6dc39c62cd420b",
+            "code": "TC1389",
+            "tax_amount": 0.0,
+            "total_amount": 33.0,
+            "unique_sequence_code": 1,
+            "price": 33.0,
+            "qty": 1,
+            "amount": 33.0,
+            "operation_records":
+            [],
+            "item_id": "4649133090480881664",
+            "net_amount": 33.0,
+            "discount_amount": 0.0,
+            "type": "MEAL_CUSTOM",
+            "unique_id": "98a5a254-905a-4b37-95dc-baafa9b16d93",
+            "name": "草莓雪胖胖爆料杯"
+        },
+        {
+            "ticket_id": "3b885c917f194376ad6dc39c62cd420b",
+            "code": "DP01688",
+            "tax_amount": 0.0,
+            "total_amount": 11.0,
+            "unique_sequence_code": 1,
+            "price": 11.0,
+            "qty": 1,
+            "amount": 11.0,
+            "operation_records":
+            [],
+            "item_id": "4645547244100026368",
+            "net_amount": 11.0,
+            "discount_amount": 0.0,
+            "type": "CUSTOM",
+            "parent_unique_id": "98a5a254-905a-4b37-95dc-baafa9b16d93",
+            "unique_id": "c01a6cb4-5a72-48c7-92eb-e773fd8c8529",
+            "name": "1/2雪胖胖-巧克力熔岩风味"
+        },
+        {
+            "ticket_id": "3b885c917f194376ad6dc39c62cd420b",
+            "code": "DP01693",
+            "tax_amount": 0.0,
+            "total_amount": 22.0,
+            "unique_sequence_code": 2,
+            "price": 22.0,
+            "qty": 1,
+            "amount": 22.0,
+            "operation_records":
+            [],
+            "item_id": "4645578992095625217",
+            "net_amount": 22.0,
+            "discount_amount": 0.0,
+            "type": "CUSTOM",
+            "parent_unique_id": "98a5a254-905a-4b37-95dc-baafa9b16d93",
+            "unique_id": "9f68d0fa-615f-4cfd-9a77-1cfd192d0775",
+            "name": "草莓爆料圣代杯"
+        }
+    ],
+    "payments":
+    [
+        {
+            "payment_id": "4505787976229355520",
+            "code": "2021062401",
+            "name": "微信支付",
+            "extend":
+            {
+                "trans_code": "2021062401"
+            },
+            "pay_amount": 33.0,
+            "seq_id": 1,
+            "discount": 0.0,
+            "amount": 33.0,
+            "ticket_id": "3b885c917f194376ad6dc39c62cd420b",
+            "pay_time": "2023-02-17 17:22:46",
+            "net_amount": 33.0,
+            "overflow": 0.0,
+            "change": 0.0
+        }
+    ],
+    "org_ticket_id": "",
+    "net_amount": 33.0
+}
