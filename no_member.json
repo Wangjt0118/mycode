@@ -1,0 +1,284 @@
+{
+    "pos_id": "4697324278069100544",
+    "store_id": "4562846622855233536",
+    "order_no": "20",
+    "sales_date": "2023-03-15 14:25:35",
+    "pos":
+    {
+        "operator":
+        {
+            "code": "020",
+            "name": "店长",
+            "id": 4576265214447616000
+        },
+        "device":
+        {
+            "mac": "00:0C:D6:19:DD:66",
+            "code": "91868531",
+            "id": "4697324278069100544"
+        },
+        "name": "主机terminal44520"
+    },
+    "sign": "b78bb3795e6bfc050c32b997c0ad3b6f",
+    "is_cancel": 0,
+    "table":
+    {
+        "people": 1,
+        "id": "",
+        "no": ""
+    },
+    "total_qty": 0,
+    "partner_id": 3805520638781685761,
+    "payable_amount": 0.0,
+    "operation_user_id": "4576265214447616000",
+    "business_date": "2023-03-15 00:00:00",
+    "paid_amount": 0.0,
+    "sub_channel": 0,
+    "member":
+    {},
+    "discounts":
+    [
+        {
+            "code": "NORMAL",
+            "name": "抖音卡券商家优惠 ",
+            "qty": 1,
+            "amount": 3.9,
+            "ticket_id": "0c3ab67598c84a26bb7d1bb2fca33d86",
+            "fired_items":
+            [],
+            "promotion_id": "4551270815548637184",
+            "type": 0
+        },
+        {
+            "code": "NORMAL",
+            "name": "抖音卡券渠道优惠",
+            "qty": 1,
+            "amount": 15.14,
+            "ticket_id": "0c3ab67598c84a26bb7d1bb2fca33d86",
+            "fired_items":
+            [],
+            "promotion_id": "4551270478196572160",
+            "type": 0
+        }
+    ],
+    "version": "2.0",
+    "ticket_id": "0c3ab67598c84a26bb7d1bb2fca33d86",
+    "context_id": 4733607667331792896,
+    "invoice_order_no": "918685312023031520",
+    "method": 0,
+    "store":
+    {
+        "us_id": "70781",
+        "code": "70781",
+        "name": "苏州六悦博物馆店"
+    },
+    "end_time": "2023-03-15 14:26:58",
+    "status": "FINISH",
+    "updated": "2023-03-15 14:26:57",
+    "sales_time": "2023-03-15 14:25:35",
+    "sub_status": "SALE",
+    "start_time": "2023-03-15 14:25:35",
+    "send_fee": 0,
+    "members":
+    [],
+    "discount_amount": 19.04,
+    "delivery_time": "",
+    "tax_amount": 0.0,
+    "total_amount": 61.0,
+    "created": "2023-03-15 14:26:57",
+    "items":
+    [
+        {
+            "ticket_id": "0c3ab67598c84a26bb7d1bb2fca33d86",
+            "code": "TC00230227",
+            "tax_amount": 0.0,
+            "total_amount": 31.0,
+            "unique_sequence_code": 1,
+            "price": 31.0,
+            "qty": 1,
+            "amount": 31.0,
+            "operation_records":
+            [],
+            "item_id": "4727730769225613312",
+            "net_amount": 21.32,
+            "discount_amount": 9.68,
+            "type": "MEAL_CUSTOM",
+            "unique_id": "b6369920-d812-464a-9500-61ed90cc96fd",
+            "name": "伯爵风味奶昔"
+        },
+        {
+            "ticket_id": "0c3ab67598c84a26bb7d1bb2fca33d86",
+            "code": "DP01900",
+            "tax_amount": 0.0,
+            "total_amount": 31.0,
+            "unique_sequence_code": 1,
+            "price": 31.0,
+            "qty": 1,
+            "amount": 31.0,
+            "operation_records":
+            [],
+            "item_id": "4726310733818658816",
+            "net_amount": 21.32,
+            "discount_amount": 9.68,
+            "type": "CUSTOM",
+            "parent_unique_id": "b6369920-d812-464a-9500-61ed90cc96fd",
+            "unique_id": "7609d13c-b0de-4cb0-83a4-57074cf1f9cf",
+            "name": "伯爵风味奶昔"
+        },
+        {
+            "ticket_id": "0c3ab67598c84a26bb7d1bb2fca33d86",
+            "code": "TC00140104",
+            "tax_amount": 0.0,
+            "total_amount": 30.0,
+            "unique_sequence_code": 2,
+            "price": 30.0,
+            "qty": 1,
+            "amount": 30.0,
+            "operation_records":
+            [],
+            "item_id": "4708248263065632768",
+            "net_amount": 20.64,
+            "discount_amount": 9.36,
+            "type": "MEAL_CUSTOM",
+            "unique_id": "3429a6b5-d911-45e8-9d07-9fefa883b868",
+            "name": "DQ单杯猛料标杯暴风雪"
+        },
+        {
+            "ticket_id": "0c3ab67598c84a26bb7d1bb2fca33d86",
+            "code": "DP00888",
+            "tax_amount": 0.0,
+            "total_amount": 30.0,
+            "unique_sequence_code": 1,
+            "price": 30.0,
+            "qty": 1,
+            "amount": 30.0,
+            "operation_records":
+            [],
+            "item_id": "4479561193591209984",
+            "net_amount": 39.68,
+            "discount_amount": -9.68,
+            "type": "CUSTOM",
+            "parent_unique_id": "3429a6b5-d911-45e8-9d07-9fefa883b868",
+            "unique_id": "4bf8b620-ce1a-41aa-954b-f836c084f5dd",
+            "name": "猛料标准杯-巧克力曲奇暴风雪"
+        }
+    ],
+    "overflow_amount": 0.0,
+    "points": 0,
+    "products":
+    [
+        {
+            "ticket_id": "0c3ab67598c84a26bb7d1bb2fca33d86",
+            "code": "TC00230227",
+            "tax_amount": 0.0,
+            "total_amount": 31.0,
+            "unique_sequence_code": 1,
+            "price": 31.0,
+            "qty": 1,
+            "amount": 31.0,
+            "operation_records":
+            [],
+            "item_id": "4727730769225613312",
+            "net_amount": 21.32,
+            "discount_amount": 9.68,
+            "type": "MEAL_CUSTOM",
+            "unique_id": "b6369920-d812-464a-9500-61ed90cc96fd",
+            "name": "伯爵风味奶昔"
+        },
+        {
+            "ticket_id": "0c3ab67598c84a26bb7d1bb2fca33d86",
+            "code": "DP01900",
+            "tax_amount": 0.0,
+            "total_amount": 31.0,
+            "unique_sequence_code": 1,
+            "price": 31.0,
+            "qty": 1,
+            "amount": 31.0,
+            "operation_records":
+            [],
+            "item_id": "4726310733818658816",
+            "net_amount": 21.32,
+            "discount_amount": 9.68,
+            "type": "CUSTOM",
+            "parent_unique_id": "b6369920-d812-464a-9500-61ed90cc96fd",
+            "unique_id": "7609d13c-b0de-4cb0-83a4-57074cf1f9cf",
+            "name": "伯爵风味奶昔"
+        },
+        {
+            "ticket_id": "0c3ab67598c84a26bb7d1bb2fca33d86",
+            "code": "TC00140104",
+            "tax_amount": 0.0,
+            "total_amount": 30.0,
+            "unique_sequence_code": 2,
+            "price": 30.0,
+            "qty": 1,
+            "amount": 30.0,
+            "operation_records":
+            [],
+            "item_id": "4708248263065632768",
+            "net_amount": 20.64,
+            "discount_amount": 9.36,
+            "type": "MEAL_CUSTOM",
+            "unique_id": "3429a6b5-d911-45e8-9d07-9fefa883b868",
+            "name": "DQ单杯猛料标杯暴风雪"
+        },
+        {
+            "ticket_id": "0c3ab67598c84a26bb7d1bb2fca33d86",
+            "code": "DP00888",
+            "tax_amount": 0.0,
+            "total_amount": 30.0,
+            "unique_sequence_code": 1,
+            "price": 30.0,
+            "qty": 1,
+            "amount": 30.0,
+            "operation_records":
+            [],
+            "item_id": "4479561193591209984",
+            "net_amount": 39.68,
+            "discount_amount": -9.68,
+            "type": "CUSTOM",
+            "parent_unique_id": "3429a6b5-d911-45e8-9d07-9fefa883b868",
+            "unique_id": "4bf8b620-ce1a-41aa-954b-f836c084f5dd",
+            "name": "猛料标准杯-巧克力曲奇暴风雪"
+        }
+    ],
+    "payments":
+    [
+        {
+            "payment_id": "4002988803161481217",
+            "code": "1",
+            "name": "现金",
+            "extend":
+            {
+                "trans_code": "1"
+            },
+            "pay_amount": 0.0,
+            "seq_id": 3,
+            "discount": 0.0,
+            "amount": 0.0,
+            "ticket_id": "0c3ab67598c84a26bb7d1bb2fca33d86",
+            "pay_time": "2023-03-15 14:26:54",
+            "net_amount": 0.0,
+            "overflow": 0.0,
+            "change": 0.0
+        },
+        {
+            "payment_id": "4550656401703239680",
+            "code": "202110262",
+            "name": "抖音券支付",
+            "extend":
+            {},
+            "pay_amount": 41.96,
+            "seq_id": 4,
+            "discount": 0.0,
+            "amount": 41.96,
+            "ticket_id": "0c3ab67598c84a26bb7d1bb2fca33d86",
+            "pay_time": "2023-03-15 14:26:58",
+            "net_amount": 41.96,
+            "overflow": 0.0,
+            "change": 0.0
+        }
+    ],
+    "org_ticket_id": "",
+    "net_amount": 41.96
+}

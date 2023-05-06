@@ -59,7 +59,7 @@ import requests
 
 # 抖音基础信息
 headers = {"Content-Type": "application/x-www-form-urlencoded"}
-client_token = 'clt.c187ac2e49daf29ce4a9c7ff7f2199d0rbxMWjwJuaNYtd2QudRWR8DNLSiU'
+client_token = 'clt.328ec7094d54228ecc798ed036bd4649nttZXttW0gvZRfwUnMi4V88C9kAv'
 
 # # # 核销券
 
@@ -78,31 +78,27 @@ client_token = 'clt.c187ac2e49daf29ce4a9c7ff7f2199d0rbxMWjwJuaNYtd2QudRWR8DNLSiU
 
 
 # 取消核销券
-# headers = {"Content-Type": "application/json"}
-# data = {
-#   'verify_id': '7145745952867385356',
-#   'certificate_id': '714573903614515612822'
-# }
+headers = {"Content-Type": "application/json"}
+data = {
+  'verify_id': '7215501566219683855',
+  'certificate_id': '7215493514816569384'
+}
 
-# response = requests.post('https://open.douyin.com/namek/fulfilment/cancel/?client_token={}'.format(client_token), json=data, headers=headers)
+response = requests.post('https://open.douyin.com/namek/fulfilment/cancel/?client_token={}'.format(client_token), json=data, headers=headers)
 
 # s = response.text
 # print(type(s))
 # print('*' * 10)
-# print(response.json())
-
-# 券状态查询
-data = {
-  "encrypted_code": "CgwIARC1HhifIyABKAESLgoshAUIU48+mFFSYCy9ZirUNouquMgBPNNNEnWC92uJ9TK4Ta6d6JbdpQ9y65IaAA=="
-}
-# data = parse.urlencode(data)
-# print(data)
-response = requests.get('https://open.douyin.com/namek/fulfilment/query/certificate/?client_token={}'.format(client_token), params=data, headers=headers)
-print(response.text)
-print('-' * 10)
-print(response.text)
-print('-' * 10)
 print(response.json())
+
+# # 券状态查询
+# data = {
+#   "encrypted_code": "CgwIARC1HhifIyABKAESLgoshAUIU48+mFFSYCy9ZirUNouquMgBPNNNEnWC92uJ9TK4Ta6d6JbdpQ9y65IaAA=="
+# }
+
+# response = requests.get('https://open.douyin.com/namek/fulfilment/query/certificate/?client_token={}'.format(client_token), params=data, headers=headers)
+
+# print(response.json())
 
 # res = requests.get('https://open.douyin.com/namek/poi/query/?client_token={}&page=1&size=1000'.format(client_token))
 # print(res.text)

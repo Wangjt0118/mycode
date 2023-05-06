@@ -1,0 +1,75 @@
+{
+    "pos_id": null,
+    "member":
+    {
+        "card_no": "1515001963290413030955834926828774056",
+        "code": "DQ003408422",
+        "cooperation_code": "M0002"
+    },
+    "store_id": 4024054442479214593,
+    "extend":
+    {},
+    "payment_extend":
+    {
+        "member":
+        {
+            "card_no": "1515001963290413030955834926828774056",
+            "code": "DQ003408422",
+            "cooperation_code": "M0002"
+        },
+        "card_no": "1515001963290413030955834926828774056",
+        "quantity": 1
+    },
+    "context_id": 4733606721365245952,
+    "start_time": "2023-03-15 14:21:29",
+    "table_no": "empty",
+    "is_cancel": false,
+    "products":
+    [
+        {
+            "amount": 75.0,
+            "code": "TC1384",
+            "name": "比利时巧克力脆皮冰淇淋四支装",
+            "qty": 1
+        },
+        {
+            "amount": 27.0,
+            "code": "DP01645",
+            "name": "比利时巧克力口味坚果脆皮冰淇淋",
+            "qty": 1
+        }
+    ],
+    "ticket_id": "4e1cec0cee164ae78df663a60fbfd740",
+    "sales_time": "2023-03-15 14:21:29",
+    "sales_date": "2023-03-15",
+    "net_amount": 2.0,
+    "payments":
+    [
+        {
+            "amount": 2.0,
+            "code": "4505787976229355520",
+            "name": "微信支付"
+        }
+    ],
+    "partner_id": 3805520638781685761,
+    "payment_ticket_id": 4733606721314914304,
+    "coupons":
+    [
+        {
+            "code_no": "49989096200034",
+            "type": "MEMBERSHIP",
+            "extend":
+            {
+                "member":
+                {
+                    "card_no": "1515001963290413030955834926828774056",
+                    "code": "DQ003408422",
+                    "cooperation_code": "M0002"
+                },
+                "card_no": "1515001963290413030955834926828774056",
+                "quantity": 1
+            }
+        }
+    ],
+    "total_amount": 2.0
+}

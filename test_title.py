@@ -158,14 +158,23 @@
 # a = {'247': '12321', '136': "23123", '123': '23454231', '112': '2341'}
 # print(a)
 
-from xlsxwriter.workbook import Workbook
-path = '/Users/hws/Downloads/test.xlsx'
-workbook = Workbook(path)
-worksheet = workbook.add_worksheet('lalall')
-worksheet.write_number(0, 0, 1)
-print('sssss')
+def fib(n):
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    
+    else:
+        return fib(n-1) + fib(n-2)
+
+import time
+a = time.time()
 
 
+
+print(fib(40))
+b = time.time()
+print(b -a)
 
 
 
